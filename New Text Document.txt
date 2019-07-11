@@ -1,0 +1,6 @@
+// .env (do not forgot to add this to your .gitignore)
+WATSON_WORKSPACE_ID=workspace-id
+WATSON_VERSION=2018-04-15
+WATSON_URL=https://gateway.watsonplatform.net/assistant/api
+WATSON_USERNAME=username
+WATSON_PASSWORD=password

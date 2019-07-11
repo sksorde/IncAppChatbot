@@ -1,0 +1,28 @@
+{
+  "name": "my-watson-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^4.2.1",
+    "watson-developer-cloud": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "casperjs": "^1.1.4",
+    "codecov": "^3.1.0",
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "supertest": "^3.3.0"
+  }
+}
